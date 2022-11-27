@@ -60,3 +60,14 @@ for nama,nomor in telepon.items():
 Output nya akan menghasilkan
 
 ![gambar](gambar/a2.png)
+
+Untuk menghapus kontak Dina bisa menggunakan ```del``` 
+seperti:
+
+``` 
+del telepon['Dina']
+```
+
+Maka kontak Dina akan terhapus
+
+![gambar](gambar/a3.png)
