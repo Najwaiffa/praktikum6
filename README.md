@@ -99,6 +99,14 @@ if data.lower() == 't':
         siswa[nama] = nim, tugas, uts, uas, akhir
 ```
 
+- hasil yang keluar ketika kita memberi perintah 't' dan diminta untuk mengisi beberapa data
+
+![gambar](gambar/a4.png)
+
+- ketika sudah menambahkan maka hasilnya seprti:
+
+![gambar](gambar/a5.png)
+
 - program untuk mengubah data
 ```
 elif data.lower() == 'u':
@@ -115,6 +123,13 @@ elif data.lower() == 'u':
             print("Nama {0} tidak ditemukan".format(nama))
 ```
 
+- hasil yang keluar ketika kita memerintahkan 'u' untuk untuk mengubah data yang kita inginkan
+
+![gambar](gambar/a6.png)
+
+ -ketika sudah keluar ketika di lihat kembali hasilnya seprti:
+ 
+
 - program untuk menghapus data
 ```
 elif data.lower() == 'h':
@@ -125,6 +140,10 @@ elif data.lower() == 'h':
         else:
             print("Nama {0} Tidak Ditemukan".format(nama))
 ```
+
+- ketika kita ingin menghapus data maka kita mengitput 'H' untuk menghapusnya
+
+![gambar](gambar/a7.png)
 
 - program untuk mencari data
 ```
@@ -143,6 +162,10 @@ elif data.lower() == 'h':
         else:
             print("Nama {0} Tidak Ditemukan".format(nama))
  ```
+ 
+ - hasil kekita diminta untuk mencari data dengan menginputkan 'C'
+ 
+ ![gambar](gambar/a8.png)
  
  - program untuk melihat data
  ```
@@ -168,6 +191,14 @@ elif data.lower() == 'h':
             print("|                                TIDAK ADA DATA                              |")
             print("="*78)
 ```
+
+- hasil yang keluar jika belum menginput data maka akan memberikan hasil "TIDAK ADA DATA"
+
+![gambar](gambar/a9.png)
+
+- hasil yangkeluar jika sudah menginput data
+
+![gambar](gambar/a10.png)
 
 -program untuk keluar dari data
 ```
