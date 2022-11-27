@@ -72,6 +72,8 @@ Maka kontak Dina akan terhapus
 
 ![gambar](gambar/a3.png)
 
+---
+
 ## Tugas Praktikum
 
 Buat dictionary kosong
@@ -129,6 +131,7 @@ elif data.lower() == 'u':
 
  -ketika sudah keluar ketika di lihat kembali hasilnya seprti:
  
+![gambar](gambar/a7.png)
 
 - program untuk menghapus data
 ```
@@ -143,7 +146,7 @@ elif data.lower() == 'h':
 
 - ketika kita ingin menghapus data maka kita mengitput 'H' untuk menghapusnya
 
-![gambar](gambar/a7.png)
+![gambar](gambar/a8.png)
 
 - program untuk mencari data
 ```
@@ -165,7 +168,7 @@ elif data.lower() == 'h':
  
  - hasil kekita diminta untuk mencari data dengan menginputkan 'C'
  
- ![gambar](gambar/a8.png)
+ ![gambar](gambar/a9.png)
  
  - program untuk melihat data
  ```
@@ -194,11 +197,11 @@ elif data.lower() == 'h':
 
 - hasil yang keluar jika belum menginput data maka akan memberikan hasil "TIDAK ADA DATA"
 
-![gambar](gambar/a9.png)
+![gambar](gambar/a10.png)
 
 - hasil yangkeluar jika sudah menginput data
 
-![gambar](gambar/a10.png)
+![gambar](gambar/a11.png)
 
 -program untuk keluar dari data
 ```
