@@ -129,7 +129,7 @@ elif data.lower() == 'u':
 
 ![gambar](gambar/a6.png)
 
-- ketika sudah keluar ketika di lihat kembali hasilnya seprti:
+- hasil ketika sudah di ubah:
  
 ![gambar](gambar/a7.png)
 
@@ -148,7 +148,7 @@ elif data.lower() == 'h':
 
 ![gambar](gambar/a8.png)
 
-- hasil table ketika data sudah di hapus
+- hasil ketika data sudah di hapus
 
 ![gambar](gambar/a9.png)
 
@@ -213,3 +213,8 @@ elif data.lower() == 'h':
 elif b.lower() == 'k':
         break
 ```
+## Flowchart
+
+![gambar](gambar/a12.png)
+
+
